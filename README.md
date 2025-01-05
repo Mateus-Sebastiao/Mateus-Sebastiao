@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="center">
   Hi, I'm Mateus! 👋
 </h3>
@@ -7,6 +5,9 @@
 <h2 align="center">
     Network Admin | Cybersecurity Enthusiast | Trainer | YouTuber
 </h2>
+
+## 🚀 Minhas redes sociais e canal no YouTube
+[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-zMoZSD3tDQLEuPYJtL0hw?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/mateussebastiaoms) - [![GitHub followers](https://img.shields.io/github/followers/vaamonde?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/Mateus-Sebastiao/) - [![Facebook Mateus](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=ProcedimentosEmTi&logoColor=white)](https://www.facebook.com/mateussebastiaoms) - [![LinkedIn Mateus](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sebastiao/) - [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_sebastiao11/)
 
 <!--
 **Mateus-Sebastiao/Mateus-Sebastiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
