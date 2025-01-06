@@ -6,7 +6,7 @@
     Network Admin | Cybersecurity Enthusiast | Cloud | Trainer | YouTuber
 </h2>
 
-## 🚀 My Social Medias
+## 🚀 My Social Networks
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/mateussebastiaoms) - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateus-Sebastiao) - [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mateussebastiaoms) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-sebastiao) - [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateus_sebastiao11)
 
 
