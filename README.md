@@ -6,6 +6,10 @@
     Network Admin | Cybersecurity Enthusiast | Trainer | YouTuber
 </h2>
 
+## 🚀 Minhas redes sociais e canal no YouTube
+[![Youtube Channel](https://img.shields.io/youtube/label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/@mateussebastiaoms) - [![GitHub](https://img.shields.io/github/label=GitHub&logo=Github&style=for-the-badge)](https://github.com/Mateus-Sebastiao/) - [![Facebook](https://img.shields.io/badge/style=for-the-badge&logoColor=white)](https://www.facebook.com/mateussebastiaoms) - [![LinkedIn](https://img.shields.io/badge/style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sebastiao/) - [![Instragram](https://img.shields.io/badge/style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_sebastiao11/)
+
+
 <!--
 **Mateus-Sebastiao/Mateus-Sebastiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
