@@ -7,7 +7,8 @@
 </h2>
 
 ## 🚀 Minhas redes sociais e canal no YouTube
-[![Youtube Channel]( https://img.shields.io/badge/YouTube-red)](https://youtube.com/@mateussebastiaoms)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/mateussebastiaoms)
+
 
 <!--
 **Mateus-Sebastiao/Mateus-Sebastiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
