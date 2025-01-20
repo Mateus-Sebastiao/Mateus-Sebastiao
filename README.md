@@ -3,7 +3,7 @@
 </h3>
   
 <h2 align="center">
-    Network Admin | Cybersecurity Enthusiast | Cloud | Trainer | YouTuber
+    Network and System Admin | DevOps & Cloud Learner | Cybersecurity Enthusiast | Trainer | YouTuber
 </h2>
 
 ## 🚀 My Social Networks
