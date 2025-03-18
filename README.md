@@ -3,7 +3,7 @@
 </h3>
   
 <h2 align="center">
-    Network and System Administrator | Transitioning to DevOps & Cloud | Trainer | YouTuber
+    System Administrator | Transitioning to DevOps & Cloud | Trainer | YouTuber
 </h2>
 
 ## 🚀 My Social Networks
