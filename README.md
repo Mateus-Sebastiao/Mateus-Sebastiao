@@ -1,25 +1,25 @@
 <h3 align="center">
-  Hi, I'm Mateus! 👋
+  Prazer, eu sou o Mateus! 👋
 </h3>
   
 <h2 align="center">
-    System Administrator | Content Creator | DevOps & Cloud | Trainer | YouTuber
+    SysAdmin | Criador de Conteúdos | DevOps & Cloud | YouTuber
 </h2>
 
 <div align="center">
 
-I’m a **Linux SysAdmin** transitioning into **DevOps and Cloud,** passionate about technology since I can remember. 🚀  
+Sou um **SysAdmin Linux** em transição para **DevOps e Cloud,** apaixonado por tecnologia desde que me conheço por gente. 🚀  
 
-In my free time, I enjoy **coding, learning new things, and automating processes.** Besides exploring new technologies, I share my journey for fun and to help others who are on the same path.  
+Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar processos.** Além de explorar novas tecnologias, também compartilho minha jornada por diversão e para ajudar outras pessoas que estão no mesmo caminho.  
 
-Here, you’ll find projects that reflect my continuous learning in **Linux, automation, networking, security, and development.** Feel free to explore! 😃  
+Aqui você encontrará projetos que refletem meu aprendizado contínuo em **Linux, automação, redes, segurança e desenvolvimento.** Fique à vontade para explorar! 😃  
 
-🔹 **Let’s connect!** <br>
+🔹 **Vamos conectar?** <br>
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mateussebastiaoms) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateus-Sebastiao) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mateussebastiaoms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-sebastiao) [![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateus_sebastiao11)
 
 </div>
 
-## 💻 My Skills and Tools
+## 💻 Minhas habilidades e ferramentas
 
 <div align="center">
 
@@ -27,7 +27,7 @@ Here, you’ll find projects that reflect my continuous learning in **Linux, aut
 
 </div>
 
-## 🌱 I’m currently learning...
+## 🌱 Estou atualmente aprendendo...
 
 <div align="center">
   
@@ -35,7 +35,7 @@ Here, you’ll find projects that reflect my continuous learning in **Linux, aut
 
 </div>
 
-## ⚡ My Github Statistics
+## ⚡ Minhas estatísticas do Github
 <div align="center">
   
 ![Mateus's Github Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Sebastiao&show_icons=true&theme=dark)
