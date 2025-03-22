@@ -38,7 +38,7 @@ Aqui você encontrará projetos que refletem meu aprendizado contínuo em **Linu
 ## ⚡ Minhas estatísticas do Github
 <div align="center">
   
-![Mateus's Github Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Sebastiao&show_icons=true&theme=dark)
+![Mateus's Github Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Sebastiao&show_icons=true&theme=dark&locale=pt-pt&hide_title=true&hide=contribs)
 
 </div>
 
