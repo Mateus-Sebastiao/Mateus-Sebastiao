@@ -14,7 +14,7 @@ Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar pr
 
 Aqui você encontrará projetos que refletem meu aprendizado contínuo em **Linux, automação, redes, segurança e desenvolvimento.** Fique à vontade para explorar! 😃  
 
-🔹 **Vamos conectar?** <br>
+🔹 **Vamos nos conectar?** <br>
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mateussebastiaoms) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateus-Sebastiao) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:network.mateussebastiao@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-sebastiao) [![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateus_sebastiao11) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mateussebastiaoms) 
 
 </div>
