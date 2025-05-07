@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Sou um **SysAdmin Linux** aprendendo sobre **DevOps e Cloud,** apaixonado por tecnologia desde que me conheço por gente. O meu conhecimento técnico inclui Linux, Redes, Programação (Bash e Python), Docker e outros.
+Sou um **SysAdmin Linux** aprendendo sobre à cultura **DevOps e Cloud,** apaixonado por tecnologia desde que me conheço por gente. O meu conhecimento técnico inclui Linux, Redes, Programação (Bash e Python), Docker e outros.
 
 Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar processos.** Além de explorar novas tecnologias, também compartilho minha jornada para ajudar outras pessoas que estão no mesmo caminho.  
 
