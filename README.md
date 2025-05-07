@@ -3,7 +3,7 @@
 </h3>
   
 <h2 align="center">
-    Linux SysAdmin | Criador de Conteúdos | DevOps & Cloud | YouTuber
+    Linux SysAdmin | Freelancer | DevOps & Cloud | Criador de Conteúdos
 </h2>
 
 <div align="center">
