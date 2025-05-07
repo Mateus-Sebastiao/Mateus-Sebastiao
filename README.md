@@ -3,7 +3,7 @@
 </h3>
   
 <h2 align="center">
-    SysAdmin | Criador de Conteúdos | DevOps & Cloud | YouTuber
+    Linux SysAdmin | Criador de Conteúdos | DevOps & Cloud | YouTuber
 </h2>
 
 <div align="center">
@@ -29,9 +29,7 @@ Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar pr
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://roadmap.sh">
-      <img src="https://roadmap.sh/card/wide/681b0d713da6ef5848529294?variant=dark&roadmaps=devops%2Clinux%2Cpython%2Cgit-github" alt="roadmap.sh"/>
-    </a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/681b0d713da6ef5848529294?variant=dark" alt="roadmap.sh"/></a>
   </div>
 </div>
 
