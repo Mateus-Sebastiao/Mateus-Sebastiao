@@ -28,6 +28,10 @@ Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar pr
 ## ⚡ Minhas estatísticas
 
 <div align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/681b0d713da6ef5848529294?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
+<div align="center">
 
 ![Mateus's Github Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Sebastiao&show_icons=true&theme=dark&locale=pt-pt&hide_title=true&hide=contribs)
 
