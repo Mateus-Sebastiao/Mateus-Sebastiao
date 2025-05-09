@@ -28,7 +28,9 @@ Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar pr
 ## ⚡ Minhas estatísticas
 
 <div align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/681b0d713da6ef5848529294?variant=dark" alt="roadmap.sh"/></a>
+  
+[![roadmap.sh](https://roadmap.sh/card/wide/681b0d713da6ef5848529294?variant=light)](https://roadmap.sh)
+
 </div>
 
 <div align="center">
