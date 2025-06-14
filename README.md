@@ -19,9 +19,12 @@ Nos meus tempos livres, gosto de **codar, aprender coisas novas e automatizar pr
 
 ## 🔭 Estou atualmente trabalhando em...
 - [Bookmark App using Flask with DevOps tools](https://github.com/Mateus-Sebastiao/infra-bookmark-devops.git)
+- [Flask app using MySQL with DevOps tools](https://github.com/Mateus-Sebastiao/flask-mysql-docker)
 - [Laboratórios de containers Docker](https://github.com/Mateus-Sebastiao/docker-lab.git)
 
+
 ## 🧰 Minhas ferramentas do dia-a-dia
+- Linux
 - Docker
 - Vagrant
 - Bash Script
